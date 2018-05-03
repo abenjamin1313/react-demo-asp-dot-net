@@ -1,0 +1,1 @@
+﻿const x = "New feature of ES6.";
