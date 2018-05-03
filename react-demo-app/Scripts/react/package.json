@@ -1,0 +1,11 @@
+{
+  "name": "react-demo-asp-dot-net",
+  "version": "1.0.0",
+  "description": "REACT front-end with ASP.NET / C# backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Victor",
+  "license": "MIT"
+}
