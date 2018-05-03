@@ -1,5 +1,9 @@
-﻿const x = "New feature of ES6.";
+﻿import React from 'react';
+import ReactDOM from 'react-dom';
 
-const y = "New feature of ES6 is cool.";
-
-const v = "New feature t of ES6 is cool.";
+ReactDOM.render (
+    
+    <h1>Hello World</h1>,
+    document.getElementById('root')
+);
+   
